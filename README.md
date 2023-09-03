@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rafaelaccampos
 - 👀 I’m interested in NodeJS, .NET, ReactJS, Angular and React Native
-- 🌱 I’m currently learning and working with.NET 
+- 🌱 I’m currently learning and working with .NET 
 - 💞️ I’m looking to collaborate on projects with this techs: .NET, NodeJS, Angular, ReactJS and React Native or documentation
